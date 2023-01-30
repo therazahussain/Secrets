@@ -1,4 +1,4 @@
-# MERN Expense Tracker 
+# MERN Secret Posting 
 An Secrets posting application where anyone can post their secrets without anyone knowing about them with Full Authentication - developed using Node, Express, MongoDB, EJS, Passport.
 
 ### Output
