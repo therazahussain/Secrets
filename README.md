@@ -8,13 +8,13 @@ An Secrets posting application where anyone can post their secrets without anyon
 <img width="911" alt="Screenshot 2023-01-30 063443" src="https://user-images.githubusercontent.com/98954425/215367508-4d1ed4f9-49f7-4aa9-b33e-e1ab7f6e0999.png">
 <img width="910" alt="Screenshot 2023-01-30 063348" src="https://user-images.githubusercontent.com/98954425/215367509-4e7fa809-204c-468a-88a4-9dbda05ea095.png">
 
-#### What you need to run this App
+### What you need to run this App
 1.Node (13.12.0)
 2.NPM (6.14.4)
 3.MongoDB (4.2.0)
 
 
-##### How to run this code
+### How to run this code
 1. Make sure MongoDB is running on your system
 2. Clone this repository
 3. Open command line in the cloned folder,
